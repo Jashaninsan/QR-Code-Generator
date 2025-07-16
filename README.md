@@ -63,9 +63,11 @@ img.save("Luck.png")
 You can change "don" to anything (your name, URL, etc.)
 
 
-##🧑‍💻 Author
+## 🧑‍💻 Author
+
 Jashandeep
 Aspiring Cybersecurity Student | Tech Learner
+
 📫 [https://www.linkedin.com/in/jashandeepsaroha/]
 
 
